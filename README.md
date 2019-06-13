@@ -11,3 +11,5 @@ Assignment list<br>
 7. Apply K-means algorithm to both image value and its spatial domain
 8. Polynomial fitting
 9. Build a binary classifier to classify digit 0 against all the other digits at MNIST dataset
+10. Build a binary classifier to classify all digits at MNIST dataset.
+11. Build a binary classifier to classify all digits at MNIST dataset with feature extracting.
